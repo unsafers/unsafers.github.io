@@ -32,28 +32,30 @@ Contribua com a tradução: github.com/rust-br/rust-book-pt-br
 
 Existem muitos materiais oficiais, alguns deles a seguir:
 
-- [The Rust Programming Language (aka The Book)](https://doc.rust-lang.org/stable/book): An introdution about Rust;
-- [Rust by Example](https://doc.rust-lang.org/rust-by-example): A collection of runnable examples;
-- [Rustlings](https://github.com/rust-lang/rustlings): Small exercises to get you used to reading and writing Rust code.
-- [YouTube Channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) : Videos from all Rust conferences and also re-publish talks and lectures from other places;
-- [Standard Library Documentation](https://doc.rust-lang.org/std/index.html);
-- [Nomicon](https://doc.rust-lang.org/nomicon): The Dark Arts of Advanced and Unsafe Rust Programming;
+- [The Rust Programming Language (aka The Book)](https://doc.rust-lang.org/stable/book): Uma introdução sobre Rust;
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example): Uma coleção de exemplos executáveis;
+- [Rustlings](https://github.com/rust-lang/rustlings): Pequenos exercícios para você se acostumar a ler e escrever código Rust.
+- [YouTube Channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA): Vídeos de todas as conferências de Rust, além de palestras republicadas e aulas de outros lugares;
+- [Standard Library Documentation](https://doc.rust-lang.org/std/index.html): Documentação da biblioteca padrão;
+- [Nomicon](https://doc.rust-lang.org/nomicon): A arte das trevas da avançada e insegura programação com Rust;
 - [The Rust Reference](https://doc.rust-lang.org/reference/): uma referência da linguagem (ainda em construção);
 
 O comando abaixo abre uma nova aba no navegador com a documentação da toolchain padrão e materiais offline:
 
-`$ rustup doc`
+```console
+$ rustup doc
+```
 
 ## Outros recursos úteis
 
-- [Idiomatic Rust](https://github.com/mre/idiomatic-rust): resources for writing clean, idiomatic Rust code
-- [cheats.rs](https://cheats.rs/): Rust Language Cheat Sheet
-- [Rust Anthology](https://github.com/brson/rust-anthology): The best short-form writing about Rust, collected (lightly maintained)
-- [lib.rs](https://lib.rs/): (better) alternative to crates.io
-- [Rust Optimization](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1): achieving warp speed with Rust
-- [Rust for System Programmers](https://github.com/nrc/r4cppp): A Rust tutorial for experienced C and C++ programmers
-- [Rust-101](https://www.ralfj.de/projects/rust-101/main.html): small, interactive, hands-on tutorial
-- [Learning Rust](https://learning-rust.github.io/#): Rust Programming Language Tutorials for Everyone
+- [Idiomatic Rust](https://github.com/mre/idiomatic-rust): recursos para escrever código Rust limp e idiomático;
+- [cheats.rs](https://cheats.rs/): "Colinha" da linguagem Rust;
+- [Rust Anthology](https://github.com/brson/rust-anthology): Coletânia dos melhores escritos breves sobre Rust (com leve manutenção);
+- [lib.rs](https://lib.rs/): (melhor) alternativa ao crates.io;
+- [Rust Optimization](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1): alcançando velocidade de teletransporte com Rust;
+- [Rust for System Programmers](https://github.com/nrc/r4cppp): Um tutorial de Rust para programadores C e C++ experientes;
+- [Rust-101](https://www.ralfj.de/projects/rust-101/main.html): um tutorial prático, pequeno e interativo;
+- [Learning Rust](https://learning-rust.github.io/#): Tutoriais sobre a linguagem de programação Rust para todos;
 
 ## Exercícios
 
@@ -86,11 +88,11 @@ _As comunidades Rust em geral seguem o seguinte código de conduta_: www.rust-la
 
 ## Blogs e Newsletters
 
-- [Rust Blog](https://blog.rust-lang.org/): The core team uses this blog to announce big developments in the world of Rust;
-- [Inside Rust](https://blog.rust-lang.org/inside-rust/index.html): Various Rust teams and working groups use this blog to post status updates, calls for help, and other similar announcements;
-- [This Week in Rust](https://this-week-in-rust.org/): Handpicked Rust updates, delivered to your inbox;
-- [Read Rust](https://readrust.net/): Collects interesting posts related to the Rust programming language;
-- [The Crab News](https://t.me/thecrabnews): (Telegram Channel) A compilation of nice RSS feeds about the Rust Programming Language.
+- [Rust Blog](https://blog.rust-lang.org/): A equipe principal que desenvolve Rust utiliza este blog para anunciar grandes desenvolvimentos no mundo da linguagem;
+- [Inside Rust](https://blog.rust-lang.org/inside-rust/index.html): Várias equipes e grupos de trabalho de Rust utilizam este blog para postar atualizações, chamadas para colaboração, e outros anúncios similares;
+- [This Week in Rust](https://this-week-in-rust.org/): Atualizações selecionadas de Rust, enviadas à sua caixa de entrada;
+- [Read Rust](https://readrust.net/): Coleta posts interessantes relacionados à linguagem de programação Rust;
+- [The Crab News](https://t.me/thecrabnews): (Canal do Telegram) Uma compilação de feeds RSS interessantes sobre a linguagem de programação Rust.
 
 ## Telegram
 
