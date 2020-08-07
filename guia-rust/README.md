@@ -48,7 +48,7 @@ $ rustup doc
 
 ## Outros recursos úteis
 
-- [Idiomatic Rust](https://github.com/mre/idiomatic-rust): recursos para escrever código Rust limp e idiomático;
+- [Idiomatic Rust](https://github.com/mre/idiomatic-rust): recursos para escrever código Rust limpo e idiomático;
 - [cheats.rs](https://cheats.rs/): "Colinha" da linguagem Rust;
 - [Rust Anthology](https://github.com/brson/rust-anthology): Coletânia dos melhores escritos breves sobre Rust (com leve manutenção);
 - [lib.rs](https://lib.rs/): (melhor) alternativa ao crates.io;
