@@ -2,7 +2,7 @@
 
 Rust é uma linguagem que busca empoderar todos a construir softwares confiáveis e eficientes.
 
-Página oficial da linguagem: www.rust-lang.org/
+Página oficial da linguagem: [rust-lang.org](https://rust-lang.org)
 
 # Instalação
 
@@ -24,9 +24,9 @@ O blog post [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/b
 
 ## Em Português
 
-- Tradução d'O Livro: http://livro.rustbr.org.
+- [Tradução d'O Livro](http://livro.rustbr.org).
 
-Contribua com a tradução: github.com/rust-br/rust-book-pt-br
+[Contribua](github.com/rust-br/rust-book-pt-br) com a tradução.
 
 ## Em Inglês
 
@@ -64,27 +64,27 @@ $ rustup doc
 
 # Comunidade
 
-_As comunidades Rust em geral seguem o seguinte código de conduta_: www.rust-lang.org/pt-BR/conduct
+_As comunidades Rust em geral seguem o [código de conduta](http://www.rust-lang.org/pt-BR/conduct)_.
 
 ## Canais Oficiais
 
-- Fórum: https://users.rust-lang.org/
-- Discord: https://discord.com/invite/rust-lang
+- [Fórum](https://users.rust-lang.org/)
+- [Discord](https://discord.com/invite/rust-lang)
 
 ## Reddit
 
-- r/rust (https://reddit.com/r/rust)
-- r/rust_gamedev (https://reddit.com/r/rust_gamedev)
+- [r/rust](https://reddit.com/r/rust)
+- [r/rust_gamedev](https://reddit.com/r/rust_gamedev)
 
 ## Are we yet
 
 É comum a comunidade Rust criar uma página para acompanhar a evolução e suporte a determinado nicho, geralmente essas páginas seguem o template "Are We _ Yet?".
 
-- Are We **Game** Yet? (https://arewegameyet.rs/)
-- Are We **GUI** Yet? (https://areweguiyet.com/)
-- Are We **Web** Yet? (http://www.arewewebyet.org/)
-- Are We **Async** Yet? (https://areweasyncyet.rs/)
-- Are We **Learning** Yet? (https://www.arewelearningyet.com/)
+- [Are We **Game** Yet?](https://arewegameyet.rs/)
+- [Are We **GUI** Yet?](https://areweguiyet.com/)
+- [Are We **Web** Yet?](http://www.arewewebyet.org/)
+- [Are We **Async** Yet?](https://areweasyncyet.rs/)
+- [Are We **Learning** Yet?](https://www.arewelearningyet.com/)
 
 ## Blogs e Newsletters
 
@@ -96,22 +96,22 @@ _As comunidades Rust em geral seguem o seguinte código de conduta_: www.rust-la
 
 ## Telegram
 
-- Grupo brasileiro: https://t.me/rustlangbr
-- Grupo internacional: https://t.me/rustdevs
-- The Crab News: https://t.me/thecrabnews
+- [Rust Brasil](https://t.me/rustlangbr)
+- [Rust Lang (em inglês)](https://t.me/rustdevs)
+- [The Crab News (em inglês)](https://t.me/thecrabnews)
 
 ### Comunidades locais
 
-- Bahia: https://t.me/rustba
-- Belo Horizonte: https://t.me/rustbh
-- Curitiba: https://t.me/rustcwb
-- Florianópolis: https://t.me/rustfloripa
-- Natal & RN: https://t.me/rustpoti
-- Porto Alegre: https://t.me/rustinpoa
-- Recife: https://t.me/RustRecife
-- Rio de Janeiro: https://t.me/rustrj
-- São Paulo: https://t.me/rustsp
+- [Bahia](https://t.me/rustba)
+- [Belo Horizonte](https://t.me/rustbh)
+- [Curitiba](https://t.me/rustcwb)
+- [Florianópolis](https://t.me/rustfloripa)
+- [Natal & RN](https://t.me/rustpoti)
+- [Porto Alegre](https://t.me/rustinpoa)
+- [Recife](https://t.me/RustRecife)
+- [Rio de Janeiro](https://t.me/rustrj)
+- [São Paulo](https://t.me/rustsp)
 
 ### Off-topic
 
-- https://t.me/rustjerkbr: série B do @rustlangbr, para zoeira e off-topic. _O código de conduta ainda vale_: this is rustjerk, not rustforjerks.
+- [@rustjerkbr](https://t.me/rustjerkbr): série B do @rustlangbr, para zoeira e off-topic. _O código de conduta ainda vale_: this is rustjerk, not rustforjerks.
