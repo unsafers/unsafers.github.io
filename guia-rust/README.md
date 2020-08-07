@@ -15,8 +15,8 @@ O melhor jeito de brincar com Rust é ir no [playground](http://play.rust-lang.o
 
 ## Utilidades
 
-- [rust-analyzer](https://rust-analyzer.github.io/): Language Server;
-- [cargo-edit](https://github.com/killercup/cargo-edit) : A utility for managing cargo dependencies from the command line;
+- [rust-analyzer](https://rust-analyzer.github.io/): Language Server (útil para ferramentas de editores de código);
+- [cargo-edit](https://github.com/killercup/cargo-edit) : Uma ferramenta para gerenciar dependências do cargo pela linha de comando;
 
 # Aprenda Rust
 
