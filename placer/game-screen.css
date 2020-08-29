@@ -1,0 +1,19 @@
+canvas {
+  outline: solid 1px;
+}
+
+canvas:focus {
+  outline: solid 2px red;
+}
+
+canvas:fullscreen {
+  outline: 0px;
+}
+
+body {
+  background-color: gray;
+}
+
+p {
+  float: right;
+}
