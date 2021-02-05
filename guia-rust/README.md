@@ -111,6 +111,7 @@ _As comunidades Rust em geral seguem o [código de conduta](http://www.rust-lang
 - [Recife](https://t.me/RustRecife)
 - [Rio de Janeiro](https://t.me/rustrj)
 - [São Paulo](https://t.me/rustsp)
+- [Rust Game Dev BR](https://t.me/rustgamedevbr)
 
 ### Off-topic
 
