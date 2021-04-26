@@ -56,6 +56,7 @@ $ rustup doc
 - [Rust for System Programmers](https://github.com/nrc/r4cppp): Um tutorial de Rust para programadores C e C++ experientes;
 - [Rust-101](https://www.ralfj.de/projects/rust-101/main.html): um tutorial prático, pequeno e interativo;
 - [Learning Rust](https://learning-rust.github.io/#): Tutoriais sobre a linguagem de programação Rust para todos;
+- [Resources for Learning Rust](https://jimfawcett.github.io/SiteMap.html): Muitos artigos sobre Rust.
 
 ## Exercícios
 
